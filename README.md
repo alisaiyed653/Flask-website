@@ -74,3 +74,11 @@ Leveraged environment variables for secure storage of sensitive information, avo
 Applied Git for version management, maintaining a clear history of changes and ensuring secure, structured commits.
 ### Email Integration: 
 Configured SMTP for automated email notifications, demonstrating skills in Python email libraries and third-party API configuration.
+
+## Future Improvements
+To further enhance this project, I plan to:
+
+Implement OAuth2 for secure email authentication.
+Expand the application with additional routes or features, such as user authentication.
+Integrate a front-end framework, such as Bootstrap or React, for more dynamic, responsive UI elements.
+I want to also use this project for my planned DevOps projects which you can see in my other repos.
